@@ -1,0 +1,21 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS/Linux
+.DS_Store
+
+# Coverage
+coverage/
+
+# Ignore markdown inside .github except workflows
+.github/*.md
